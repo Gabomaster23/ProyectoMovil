@@ -1,4 +1,4 @@
-package com.example.proyectoMovil
+package com.example.avance
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.proyectoMovil"
+    namespace = "com.example.avance"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.proyectoMovil"
+        applicationId = "com.example.avance"
         minSdk = 34
         targetSdk = 34
         versionCode = 1
